@@ -11,32 +11,19 @@
 | 김선우 | 빅데이터 20학번 | 백엔드 |
 | 지우림 | 빅데이터 20학번 | 백엔드 |
 
- 
-
----
-
-##  축제 웹사이트 시연 영상 
-<img src="https://github.com/user-attachments/assets/fd884c91-a657-495b-aede-5698908aa8ed" width="70%" alt="제목 없는 동영상 - Clipchamp로 제작" />
-
-
-
 ---
 
 
+## 개발 배경
+2024년 한림대학교 대동제 웹사이트는 대동제에서 진행하는 각종 이벤트와 일정을 소개하고, 주점 예약을 하기 위해 만든 웹사이트입니다.
 
-
-
-
+---
 
 ## 시스템 아키텍처
 <img src="https://github.com/user-attachments/assets/f7045919-159b-4f15-bae2-faf23870680f" width="70%" />
 
 
 
----
-
-## 개발 배경
-2024년 한림대학교 대동제 웹사이트는 대동제에서 진행하는 각종 이벤트와 일정을 소개하고, 주점 예약을 하기 위해 만든 웹사이트입니다.
 
 ---
 
@@ -68,3 +55,7 @@
 <img src="https://github.com/user-attachments/assets/6a241ea7-a988-493d-8a59-2bf7d894a632" width="60%" />
 <img src="https://github.com/user-attachments/assets/0fa5533c-702c-4b08-b647-a6e25eb69ec8" width="60%" />
 
+---
+
+##  축제 웹사이트 시연 영상 
+<img src="https://github.com/user-attachments/assets/fd884c91-a657-495b-aede-5698908aa8ed" width="70%" alt="제목 없는 동영상 - Clipchamp로 제작" />
