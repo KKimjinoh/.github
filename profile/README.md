@@ -26,27 +26,31 @@
 
 ---
 
+
 ## 기능 소개
 
-1. **프로모션 영상 페이지**  
+<div align="center">
+
+ **1. 프로모션 영상 페이지**  
    <img src="https://github.com/user-attachments/assets/015779bc-b689-42eb-b769-d3f905cad879" width="50%" />
 
-3. **분실물 페이지**  
+ **2. 분실물 페이지**  
    <img src="https://github.com/user-attachments/assets/6631d53a-6d90-4e57-91f4-b09cfd1549d4" width="50%" />
 
-4. **동아리 부스 안내 페이지**  
+ **3. 동아리 부스 안내 페이지**  
    <img src="https://github.com/user-attachments/assets/8447f499-951a-40b7-a04b-7e24516f839e" width="50%" />
 
-5. **주점 예약 및 확인 페이지**  
+ **4. 주점 예약 및 확인 페이지**  
    <img src="https://github.com/user-attachments/assets/0c1d5219-1253-42a0-b36e-b9fb31483f96" width="50%" />
-
    <img src="https://github.com/user-attachments/assets/a9ae5ecd-42c3-4553-9615-60bfa3829a27" width="50%" />
 
-8. **축제 일정 페이지**  
+ **5. 축제 일정 페이지**  
    <img src="https://github.com/user-attachments/assets/30edc447-9fc2-49e9-b7fb-136db420cfa2" width="50%" />
 
-10. **방명록 페이지**  
+ **6. 방명록 페이지**  
     <img src="https://github.com/user-attachments/assets/38f4f6db-6385-4430-9bb1-75c2a116461d" width="50%" />
+
+</div>
 
 ---
 ## 총 조회수 및 사용자 수
