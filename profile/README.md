@@ -23,7 +23,8 @@
 <img src="https://github.com/user-attachments/assets/f7045919-159b-4f15-bae2-faf23870680f" width="70%" />
 
 
-
+## Figma 디자인
+<img src="https://github.com/user-attachments/assets/473b23d1-0eb8-4926-9ef6-1253516a79de" width="60%" />
 
 ---
 
