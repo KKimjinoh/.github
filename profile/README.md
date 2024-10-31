@@ -18,7 +18,7 @@
 ---
 
 ## 시스템 아키텍처
-<img src="https://github.com/user-attachments/assets/f7045919-159b-4f15-bae2-faf23870680f" width="70%" />
+<img src="https://github.com/user-attachments/assets/f7045919-159b-4f15-bae2-faf23870680f" width="120%" />
 
 
 ## Figma 디자인
