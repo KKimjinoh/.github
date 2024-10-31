@@ -1,15 +1,13 @@
 ## 🎇2024년 한림대학교 대동제 웹사이트🎇
 
-
-
-## 팀원 정보 ✨
-| 이름  |  학과 및 학번 |포지션|
-|-------|--------|--------|
-| 김대성 | 빅데이터 21학번 | 프론트|
-| 노기훈 | 빅데이터 20학번 | 프론트 |
-| 박준서 | 빅데이터 20학번 | 프론트 |
-| 김선우 | 빅데이터 20학번 | 백엔드 |
-| 지우림 | 빅데이터 20학번 | 백엔드 |
+## 팀원 소개 ✨
+|FE | FE | FE | BE | BE |
+| :---: | :---: | :---: | :---: | :---: |
+| 김대성 | 노기훈 | 박준서 | 김선우 | 지우림 |
+|  <img width="130px" src="https://avatars.githubusercontent.com/u/131854855?v=4" /> |  <img width="130px" src="https://avatars.githubusercontent.com/u/66203019?v=4" /> |  <img width="130px" src="https://avatars.githubusercontent.com/u/105837745?v=4" /> | <img width="130px" src="https://avatars.githubusercontent.com/u/114386406?v=4" /> |  <img width="130px" src="https://avatars.githubusercontent.com/u/78469127?v=4" /> | 
+| 한림대학교 | 한림대학교 | 한림대학교| 한림대학교 | 한림대학교|
+| 콘텐츠IT전공 4학년 | 빅데이터 3학년 | 빅데이터 4학년| 빅데이터 3학년 | 빅데이터 4학년|
+| [@丸内大成](https://github.com/Kimxxunu)|[@Nohgh](https://github.com/Nohgh)|[@Junseo11](https://github.com/Junseo11)|[@Kimxxunu](https://github.com/Kimxxunu)|[@jiurim](https://github.com/jiurim)|
 
 ---
 
